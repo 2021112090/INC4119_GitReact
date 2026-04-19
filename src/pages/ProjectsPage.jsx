@@ -20,7 +20,7 @@ const ProjectsPage = () => {
     {
       title: "나의 프로젝트3",
       description: "나만의 맛집 저장리스트 ~~",
-      link: "https://map.naver.com/p/entry/place/18697937?c=15.00,0,0,0,dh",
+      link: "https://map.naver.com/p/entry/place/1319862091?lng=126.9733419&lat=37.5426589&placePath=/home?from=map&fromPanelNum=1&additionalHeight=76&timestamp=202604191302&locale=ko&svcName=map_pcv5&entry=plt&searchType=place&c=15.00,0,0,0,dh",
     },
   ];
 

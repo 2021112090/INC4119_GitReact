@@ -5,7 +5,7 @@ const HomePage = () => {
   const features = [
     {
       title: "소개",
-      description: "제 소개입니다.",
+      description: "저는 2021112090 김준영입니다.",
     },
     {
       title: "프로젝트",
@@ -18,6 +18,10 @@ const HomePage = () => {
     {
       title: "여러분이 원하는",
       description: "항목을 새로 만들어 보세요.",
+    },
+    {
+      title: "안녕하세요",
+      description: "반갑습니다.",
     },
   ];
 
